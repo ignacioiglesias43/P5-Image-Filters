@@ -1,7 +1,7 @@
 let img;
 
 function preload() {
-  img = loadImage("../assets/zoro.jpeg");
+  img = loadImage("/assets/zoro.jpeg");
 }
 
 function setup() {
